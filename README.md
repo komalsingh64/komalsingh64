@@ -1,8 +1,11 @@
 # Hi 👋, I'm Komal Singh
 
 🎓 Computer Science Student
+
 💻 Exploring Software Development, Programming & Technology
+
 🚀 Building Skills Through Consistent Learning and Real-World Projects
+
 🌱 Learning Something New Every Day
 ![](https://komarev.com/ghpvc/?username=komalsingh64&color=blue)
 
@@ -21,11 +24,14 @@
 ## 🎯 Current Focus
 
 ✨ Deepening Programming Knowledge
-✨ Building Practical and Meaningful Projects
-✨ Improving Problem-Solving & Logical Thinking
-✨ Developing Strong Git & GitHub Workflow Skills
-✨ Creating a Portfolio That Reflects My Growth
 
+✨ Building Practical and Meaningful Projects
+
+✨ Improving Problem-Solving & Logical Thinking
+
+✨ Developing Strong Git & GitHub Workflow Skills
+
+✨ Creating a Portfolio That Reflects My Growth
 ---
 
 ## 💻 Tech Stack
@@ -55,8 +61,11 @@
 ## 🌟 About Me
 
 💡 Enthusiastic about technology and continuous learning
+
 📖 Exploring programming, development, and modern tools
+
 🎯 Focused on building strong technical foundations
+
 🚀 Transforming ideas into practical projects
 
 ---
@@ -64,4 +73,5 @@
 ## ✨ Fun Fact
 
 ☕ I enjoy learning new technologies and challenging myself with coding projects.
+
 🌍 Every project teaches me something new and helps me grow as a developer.

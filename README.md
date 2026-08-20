@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=Hi%20there,%20I'm%20Komal%20Singh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
   
-  <!-- Typing Animation (Golden Amber Color, 100% Working Link) -->
+  <!-- Typing Animation (Golden Amber Color) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+and+ML)+Student;Aspiring+Software+Engineer;Web+and+Mobile+App+Developer;Java+and+DSA+Enthusiast" alt="Typing SVG" />
   </a>
@@ -71,13 +71,13 @@
       <h4>🥗 NutriScan AI</h4>
       <p>AI-powered mobile food scanner with instant nutritional analysis and allergen warnings.</p>
       <p><b>Tech:</b> Flutter • ML Kit • OpenFoodFacts</p>
-      <a href="https://komalsingh64.github.io/NutriScan/"><b>🌐 Live Demo</b></a> | <a href="https://github.com/komalsingh64/NutriScan"><b>💻 GitHub</b></a>
+      <a href="https://komalsingh64.github.io/NutriScan/" target="_blank"><b>🌐 Live Demo</b></a> | <a href="https://github.com/komalsingh64/NutriScan" target="_blank"><b>💻 GitHub</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>⚡ Smart FX Calculator</h4>
       <p>Interactive smartphone calculator with standard/FX scientific modes, live USD ⇄ INR converter, and Web Audio.</p>
       <p><b>Tech:</b> JavaScript • CSS3 • Web Audio API</p>
-      <a href="https://komalsingh64.github.io/MyProject/CalculatorApp/"><b>🌐 Live Demo</b></a> | <a href="https://github.com/komalsingh64/CalculatorApp"><b>💻 GitHub</b></a>
+      <a href="https://komalsingh64.github.io/MyProject/CalculatorApp/" target="_blank"><b>🌐 Live Demo</b></a> | <a href="https://github.com/komalsingh64/CalculatorApp" target="_blank"><b>💻 GitHub</b></a>
     </td>
   </tr>
   <tr>
@@ -85,13 +85,13 @@
       <h4>📋 TaskMaster Pro</h4>
       <p>Productivity workspace with LocalStorage data persistence, category tagging, and progress tracking.</p>
       <p><b>Tech:</b> HTML5 • CSS3 • LocalStorage API</p>
-      <a href="https://komalsingh64.github.io/TodoApp/"><b>🌐 Live Demo</b></a> | <a href="https://github.com/komalsingh64/TodoApp"><b>💻 GitHub</b></a>
+      <a href="https://komalsingh64.github.io/TodoApp/" target="_blank"><b>🌐 Live Demo</b></a> | <a href="https://github.com/komalsingh64/TodoApp" target="_blank"><b>💻 GitHub</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Personal Developer Portfolio</h4>
       <p>Modern responsive personal showcase website featuring dynamic cards and live deployments.</p>
       <p><b>Tech:</b> HTML5 • CSS3 • JavaScript</p>
-      <a href="https://komalsingh64.github.io/PortfolioWebsite/"><b>🌐 Live Demo</b></a> | <a href="https://github.com/komalsingh64/PortfolioWebsite"><b>💻 GitHub</b></a>
+      <a href="https://komalsingh64.github.io/PortfolioWebsite/" target="_blank"><b>🌐 Live Demo</b></a> | <a href="https://github.com/komalsingh64/PortfolioWebsite" target="_blank"><b>💻 GitHub</b></a>
     </td>
   </tr>
 </table>

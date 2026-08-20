@@ -2,15 +2,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=Hi%20there,%20I'm%20Komal%20Singh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
   
-  <!-- Typing Animation (Golden/Amber Colored Text) -->
+  <!-- Typing Animation with All Your Roles in Bright Gold/Orange -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=🎓+B.Tech+CSE+(AI+%26+ML)+Student;🎯+Aspiring+Software+Engineer;💻+Web+Development+%26+Flutter+Apps;☕+Java+%26+DSA+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=🎓+B.Tech+CSE+(AI+%26+ML);🎯+Aspiring+Software+Engineer;☕+Java+%26+DSA+Enthusiast;💻+Web+%26+Mobile+App+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- About Me with Working Animation Graphic -->
+<!-- About Me with Developer Visual Table -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -27,7 +27,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Working Animation" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Animation" />
     </td>
   </tr>
 </table>
@@ -36,7 +36,7 @@
 
 ### 🛠️ Tech Stack
 
-<p><b>Languages:</b></p>
+<p><b>💻 Languages:</b></p>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,14 +46,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p><b>Frameworks, Mobile & Tools:</b></p>
+<p><b>📱 Frameworks & Mobile:</b></p>
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<p><b>⚙️ Tools & Platforms:</b></p>
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
 </p>
 
 ---

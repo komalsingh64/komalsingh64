@@ -2,9 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=Hi%20there,%20I'm%20Komal%20Singh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
   
-  <!-- Typing Animation with All Your Roles in Bright Gold/Orange -->
+  <!-- Typing Animation (Golden Amber Color, 100% Working Link) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=🎓+B.Tech+CSE+(AI+%26+ML);🎯+Aspiring+Software+Engineer;☕+Java+%26+DSA+Enthusiast;💻+Web+%26+Mobile+App+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+and+ML)+Student;Aspiring+Software+Engineer;Web+and+Mobile+App+Developer;Java+and+DSA+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
